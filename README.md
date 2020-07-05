@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. git clone 
 2. npm install
-3. npm reat-native run-ios or npm reat-native run-android
+3. npm start
 
 
 Backend: [https://github.com/jestintab/appointmentbackend](https://github.com/jestintab/appointmentbackend)
